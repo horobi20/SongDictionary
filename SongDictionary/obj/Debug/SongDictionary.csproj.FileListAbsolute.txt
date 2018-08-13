@@ -1,0 +1,7 @@
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\SongDictionary\SongDictionary\bin\Debug\SongDictionary.exe.config
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\SongDictionary\SongDictionary\bin\Debug\SongDictionary.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\SongDictionary\SongDictionary\bin\Debug\SongDictionary.pdb
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\SongDictionary\SongDictionary\obj\Debug\SongDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\SongDictionary\SongDictionary\obj\Debug\SongDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\SongDictionary\SongDictionary\obj\Debug\SongDictionary.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\SongDictionary\SongDictionary\obj\Debug\SongDictionary.pdb
